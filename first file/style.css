@@ -1,0 +1,24 @@
+h1{
+  color: darkgreen;
+}
+h2{
+  color: black;
+}
+body{
+  margin: 0px;
+}
+button{
+  color: greenyellow;
+  padding: 4px;
+  border-radius: 50px;
+  font-size: 20px;
+  background-color: black;
+}
+
+body{
+  background-color: #EED6F2;
+}
+input{
+  border-radius: 700px;
+  padding: 5px;
+}
